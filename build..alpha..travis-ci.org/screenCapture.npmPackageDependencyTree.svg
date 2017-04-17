@@ -61,7 +61,7 @@
 <tspan x="10" y="938">  ├─┬ vinyl@0.5.3 </tspan>
 <tspan x="10" y="954">  │ ├── clone@1.0.2 </tspan>
 <tspan x="10" y="970">  │ └── clone-stats@0.0.1 </tspan>
-<tspan x="10" y="986">  └─┬ webpack@1.14.0 </tspan>
+<tspan x="10" y="986">  └─┬ webpack@1.15.0 </tspan>
 <tspan x="10" y="1002">    ├── acorn@3.3.0 </tspan>
 <tspan x="10" y="1018">    ├── async@1.5.2 </tspan>
 <tspan x="10" y="1034">    ├─┬ enhanced-resolve@0.9.1 </tspan>
@@ -157,7 +157,7 @@
 <tspan x="10" y="2474">    │   │ ├── arrify@1.0.1 </tspan>
 <tspan x="10" y="2490">    │   │ └─┬ micromatch@2.3.11 </tspan>
 <tspan x="10" y="2506">    │   │   ├─┬ arr-diff@2.0.0 </tspan>
-<tspan x="10" y="2522">    │   │   │ └── arr-flatten@1.0.1 </tspan>
+<tspan x="10" y="2522">    │   │   │ └── arr-flatten@1.0.3 </tspan>
 <tspan x="10" y="2538">    │   │   ├── array-unique@0.2.1 </tspan>
 <tspan x="10" y="2554">    │   │   ├─┬ braces@1.8.5 </tspan>
 <tspan x="10" y="2570">    │   │   │ ├─┬ expand-range@1.8.2 </tspan>

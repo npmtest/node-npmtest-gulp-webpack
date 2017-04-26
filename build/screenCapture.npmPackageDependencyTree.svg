@@ -172,7 +172,7 @@
 <tspan x="10" y="2714">    │   │   │ └── is-posix-bracket@0.1.1 </tspan>
 <tspan x="10" y="2730">    │   │   ├── extglob@0.3.2 </tspan>
 <tspan x="10" y="2746">    │   │   ├── filename-regex@2.0.0 </tspan>
-<tspan x="10" y="2762">    │   │   ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="2762">    │   │   ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="2778">    │   │   │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="2794">    │   │   ├─┬ normalize-path@2.1.1 </tspan>
 <tspan x="10" y="2810">    │   │   │ └── remove-trailing-separator@1.0.1 </tspan>
